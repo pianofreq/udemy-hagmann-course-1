@@ -1,4 +1,4 @@
-# udemy-hagmann-course-1
+# Algorithmic Trading A-Z with Python, Machine Learning & AWS
 This is my repo for learning github, Juypter, Pandas, Python, and more.
 
 Source materials created by Alex Hagmann. Check out his course here: 
