@@ -1,6 +1,7 @@
 #manual additions
 secrets.txt
 /home/cabox/workspace/Udmy-AlgoAZ/Part_1/Oanda_Practice/Oanda_firststeps/oanda.cfg
+oanda2.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
