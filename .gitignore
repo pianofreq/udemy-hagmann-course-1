@@ -2,6 +2,7 @@
 secrets.txt
 oanda.cfg
 oanda2.cfg
+tpqoa/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
